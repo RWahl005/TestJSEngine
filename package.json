@@ -1,0 +1,21 @@
+{
+  "name": "rjsengine",
+  "version": "1.1.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "three": "^0.108.0"
+  },
+  "description": "A JavaScript 2D and 3D GameEngine. This is for a school project only, please ignore.",
+  "main": "JSEngine2D.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "school project",
+    "gameengine"
+  ],
+  "author": "Ryandw11",
+  "license": "MIT",
+  "repository": "github:ryandw11/JSEngine",
+  "homepage": "https://github.com/ryandw11/JSEngine/wiki"
+}
